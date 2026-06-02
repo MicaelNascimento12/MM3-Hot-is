@@ -128,6 +128,7 @@ CREATE TABLE acomodacao (
 ## 📸 Demonstração
 
 * Tela inicial
+  
   <img width="641" height="828" alt="image" src="https://github.com/user-attachments/assets/01f594a7-52f2-48dc-9463-c514ae8af2d2" />
 
 * Consulta de acomodações
